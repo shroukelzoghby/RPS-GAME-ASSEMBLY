@@ -16,7 +16,7 @@ Rock-Paper-Scissors Game in Assembly language 8086
 ![game-rules](./Images/game-rules.jpg)
 
 ## Final Product
-![1](./Images/1.jpg)
-![2](./Images/2.jpg)
-![3](./Images/3.jpg)
-![4](./Images/4.jpg)
+![1](./Images/1.png)
+![2](./Images/2.png)
+![3](./Images/3.png)
+![4](./Images/4.png)
